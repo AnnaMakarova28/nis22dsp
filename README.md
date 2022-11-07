@@ -9,3 +9,5 @@
 4. 10.10.22 Дискретные системы (продолжение) [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_4.ipynb). Страницы учебника: 37-50
 5. 17.10.22 Дискретные системы (продолжение) [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_5.ipynb). Страницы учебника: 37-50
 6. 31.10.22 Преобразование Фурье дискретных сигналов [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_6.ipynb). Страницы учебника: 50-66
+#### Контрольная работа: дедлайн - воскресенье 13.11.21 23:59
+- Задания, инструкция и полезные формулы: [pdf](https://drive.google.com/file/d/1sZaEnsR_8_E13utkIcPtaq29F5QXkPrD/view?usp=share_link)
