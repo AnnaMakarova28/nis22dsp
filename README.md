@@ -13,4 +13,5 @@
 - Задания, инструкция и полезные формулы: [pdf](https://drive.google.com/file/d/1sZaEnsR_8_E13utkIcPtaq29F5QXkPrD/view?usp=share_link)
 
 ### Часть 2. Цифровая обработка сигналов в Python
-1. 14.11.21 Short-Time Fourier Transform [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_7.ipynb)
+1. 14.11.21 Short-Time Fourier Transform [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_7.ipynb).
+Пример классификации по спектрам: [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_7_classification.ipynb). [data](https://drive.google.com/drive/folders/1Bxm3L_kgKfVC9c-SMqQA15xIUd-MCVPH?usp=share_link)
