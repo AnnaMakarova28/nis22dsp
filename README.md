@@ -15,3 +15,7 @@
 ### Часть 2. Цифровая обработка сигналов в Python
 1. 14.11.21 Short-Time Fourier Transform [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_7.ipynb).
 Пример классификации по спектрам: [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_7_classification.ipynb), [data](https://drive.google.com/drive/folders/1Bxm3L_kgKfVC9c-SMqQA15xIUd-MCVPH?usp=share_link)
+2. 19.11.21 Разбор решения програмного проекта [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_8.ipynb), [data](https://drive.google.com/drive/folders/1i2JR_Nkyj9_5WiCpRR33AXJXVk3xupLE?usp=share_link)
+
+#### Программный проект: дедлайн - среда 07.12.21 23:59
+- Инструкции и Kaggle-competition: [link](https://www.kaggle.com/t/9cadbf56241f4a509a43105559bde1a3)
