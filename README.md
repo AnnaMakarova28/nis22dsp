@@ -20,4 +20,4 @@
 #### Программный проект: дедлайн - среда 07.12.21 23:59
 - Инструкции и Kaggle-competition: [link](https://www.kaggle.com/t/9cadbf56241f4a509a43105559bde1a3)
 3. 28.11.22 Дизайн фильтров в scipy.signal [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_9.ipynb)
-4. 12.12.22 Обработка многоканальных данных, PCA, ICA [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_10.ipynb)
+4. 12.12.22 Обработка многоканальных данных, PCA, ICA [notebook](https://github.com/AnnaMakarova28/nis22dsp/blob/main/lectures/lecture_10.ipynb), [data](https://drive.google.com/drive/folders/1_sw0tlZRX2IPQ7_hY0BFXBB-N_VYdc99?usp=sharing)
